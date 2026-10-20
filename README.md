@@ -2,6 +2,8 @@
   <img src="helpher-logo.png" alt="HelpHer" width="320">
 </p>
 
+# HelpHer
+
 Reconhecimento automático do Gesto Universal de Ajuda (*Signal for Help*)
 em vídeo, voltado a centrais de monitoramento.
 
