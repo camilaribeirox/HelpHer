@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="helpher-logo.png" alt="HelpHer" width="320">
+</p>
+
 # HelpHer
 
 Reconhecimento automático do Gesto Universal de Ajuda (*Signal for Help*)
