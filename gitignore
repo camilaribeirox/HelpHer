@@ -1,0 +1,69 @@
+# ---------------------------------------------------------------
+# Dados de participantes
+# Gravações e landmarks de pessoas identificáveis NAO vao para o
+# repositorio. Coletados sob Termo de Consentimento Livre e Esclarecido.
+# ---------------------------------------------------------------
+dados/
+data/
+videos/
+gravacoes/
+landmarks/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.csv
+*.parquet
+
+# Excecoes: amostras sinteticas ou anonimizadas para exemplo
+!exemplos/
+!exemplos/**
+
+# ---------------------------------------------------------------
+# Modelos treinados e checkpoints
+# ---------------------------------------------------------------
+modelos/
+checkpoints/
+runs/
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.onnx
+*.tflite
+
+# ---------------------------------------------------------------
+# Segredos (broker MQTT, chaves, certificados)
+# ---------------------------------------------------------------
+.env
+.env.*
+*.pem
+*.key
+*.crt
+secrets/
+config.local.*
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------
+# Sistema e editores
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
