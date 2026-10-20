@@ -108,7 +108,7 @@ a convenção do MediaPipe. Cada mão é identificada pelo par
 
 ## Autoria
 
-| - | Nome |
+| Módulo | Responsável |
 | :--- | :--- |
 | Módulo de percepção | Maria Clara Pastor da Silva |
 | Módulo de decisão | Camila Ribeiro |
