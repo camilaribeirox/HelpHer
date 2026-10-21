@@ -92,7 +92,7 @@ a convenção do MediaPipe. Cada mão é identificada pelo par
 
 ## Status
 
-> 🚧 Em desenvolvimento.
+> Em desenvolvimento.
 >
 > Projetos de Iniciação Científica do Instituto Federal de São Paulo,
 > Campus Jacareí.
